@@ -4,6 +4,8 @@
 
 Este projeto tem como objetivo demonstrar como integrar e consumir a API do GitHub para buscar e exibir os repositórios públicos de um usuário diretamente na interface de uma aplicação.
 
+## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/fetch-github-api/) ##
+
 ## Funcionalidades Principais Busca de Usuário:
 
 Campo de entrada para o nome de usuário do GitHub.
