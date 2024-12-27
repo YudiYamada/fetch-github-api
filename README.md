@@ -6,7 +6,7 @@ Este projeto tem como objetivo demonstrar como integrar e consumir a API do GitH
 
 ## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/fetch-github-api/) ##
 
-## Funcionalidades Principais Busca de Usuário:
+## Funcionalidades Principais
 
 Campo de entrada para o nome de usuário do GitHub.
 
